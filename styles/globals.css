@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Poppins", "Noto Sans TC", system-ui, -apple-system, sans-serif;
+  background-color: #fafafa;
+  color: #1a1a1a;
+}
+
+.prose :where(h1):not(:where([class~="not-prose"] *)) {
+  border-bottom: 2px solid theme("colors.theme.DEFAULT");
+  padding-bottom: 0.5rem;
+}
+
+.prose :where(h2):not(:where([class~="not-prose"] *)) {
+  margin-top: 2.5rem;
+  border-left: 4px solid theme("colors.theme.DEFAULT");
+  padding-left: 0.75rem;
+}
+
+.prose :where(blockquote):not(:where([class~="not-prose"] *)) {
+  border-left-color: theme("colors.theme.DEFAULT");
+  background-color: theme("colors.theme.white");
+  padding: 0.75rem 1rem;
+  border-radius: 0 6px 6px 0;
+  font-style: normal;
+}
+
+.prose :where(table):not(:where([class~="not-prose"] *)) {
+  font-size: 0.95em;
+}
+
+.prose :where(thead):not(:where([class~="not-prose"] *)) {
+  background-color: theme("colors.theme.white");
+}
+
+.prose :where(a):not(:where([class~="not-prose"] *)) {
+  text-decoration: none;
+  border-bottom: 1px solid theme("colors.theme.DEFAULT");
+}
+
+.prose :where(a):not(:where([class~="not-prose"] *)):hover {
+  color: theme("colors.theme.dark");
+}
