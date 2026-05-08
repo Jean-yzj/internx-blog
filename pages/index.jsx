@@ -9,6 +9,11 @@ const SERIES_ORDER = [
   "文科進科技",
   "累積經驗",
   "進階主題",
+  "進入職場前",
+  "軟實力升級",
+  "數位工具",
+  "產業深度",
+  "台灣實戰",
 ];
 
 export default function Home({ posts }) {
@@ -20,10 +25,10 @@ export default function Home({ posts }) {
   return (
     <>
       <Head>
-        <title>實習通部落格 — 30 篇大學生職涯指南</title>
+        <title>實習通部落格 — {posts.length} 篇大學生職涯指南</title>
         <meta
           name="description"
-          content="30 篇實戰文章，涵蓋找實習、面試準備、職涯選擇、文科生進科技業、累積經驗等主題。"
+          content={`${posts.length} 篇實戰文章，涵蓋找實習、面試準備、職涯選擇、文科生進科技業、累積經驗、職場軟實力、數位工具、產業深度與台灣本地實戰。`}
         />
       </Head>
 
@@ -36,8 +41,8 @@ export default function Home({ posts }) {
             實習通部落格
           </h1>
           <p className="text-lg sm:text-xl opacity-95 max-w-2xl">
-            30 篇實戰文章，從找實習、面試、選擇職涯，到文科生進科技業，
-            幫你少走 3 年彎路。
+            {posts.length} 篇實戰文章，從找實習、面試、選擇職涯，到職場軟實力、
+            產業深度與台灣本地實戰，幫你少走 3 年彎路。
           </p>
           <div className="mt-8 flex flex-wrap gap-3 text-sm">
             <span className="bg-white/15 backdrop-blur px-3 py-1 rounded-full">
