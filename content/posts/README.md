@@ -1,6 +1,8 @@
 # 實習通部落格文章合輯
 
-本資料夾收錄 60 篇適合刊登於實習通平台的部落格文章，題材涵蓋找實習、面試準備、職涯選擇、文科生轉戰科技業、累積大學經驗、職場軟硬實力、產業深度與台灣本地實戰等主題。
+本資料夾收錄 90 篇適合刊登於實習通平台的部落格文章，題材涵蓋找實習、面試準備、職涯選擇、文科生轉戰科技業、累積大學經驗、職場軟硬實力、產業深度、台灣本地實戰，以及完整的台灣勞動法規與合約紅綠燈解析。
+
+**法律類文章免責聲明**：61–90 篇涉及勞動法規之內容僅供參考，不構成法律意見。實際個案請洽勞動部、各地勞工局，或諮詢專業律師。具體法規條文以勞動部全國法規資料庫（https://law.moj.gov.tw）最新版本為準。
 
 ## 文章列表
 
@@ -86,6 +88,46 @@
 59. [實習合約怎麼讀？保密協議、競業條款、智財權](59-reading-internship-contracts.md)
 60. [拿到 Return Offer 後該繼續念研究所嗎？](60-return-offer-vs-graduate-school.md)
 
+### 十二、勞基法基礎：你不能不知道的勞工權利
+61. [勞基法到底保不保護你？實習生、工讀生、正職員工適用範圍全解析](61-labor-standards-act-applicability.md)
+62. [每天 8 小時、每週 40 小時：勞基法工時規範完整懶人包](62-working-hours-rules.md)
+63. [工資、津貼、獎金的法律地位：什麼算工資、什麼不算](63-wages-and-minimum-wage.md)
+64. [加班費怎麼算？平日、休息日、例假日、國定假日完整版](64-overtime-pay-calculation.md)
+65. [例假、休息日、特休、國定假日：你的休息權利怎麼算](65-leave-and-rest-days.md)
+66. [突然不去 vs 預告辭職：勞基法第 15、16 條完整指南](66-notice-period-resignation.md)
+
+### 十三、勞動契約：簽前、簽中、簽後一次搞懂
+67. [試用期 3 個月合法嗎？關於「試用期」的 5 大迷思](67-probation-period-myths.md)
+68. [勞動契約必載 13 項：簽前一定要對照的清單](68-mandatory-contract-clauses.md)
+69. [公司能突然開除你嗎？資遣 vs 懲戒解僱完全指南](69-contract-termination-by-employer.md)
+70. [資遣費怎麼算？新制 0.5 個月 × 年資 vs 舊制 1 個月 × 年資](70-severance-pay-calculation.md)
+71. [你也能「不爽就辭職」嗎？勞工終止契約的法律路徑](71-employee-termination-rights.md)
+72. [簽了就完了？勞動契約常見無效或顯失公平條款](72-contract-validity-traps.md)
+
+### 十四、社保與救濟：被欠薪、被開除時的安全網
+73. [勞工保險：5 人以上公司強制、實習生也可能被保](73-labor-insurance-explained.md)
+74. [就業保險與失業給付：被資遣後的第一道防線](74-employment-insurance-and-unemployment.md)
+75. [勞工退休金新制：22 歲就該開始注意的 6%](75-labor-pension-new-system.md)
+76. [上班受傷怎麼辦？職業災害保險與雇主補償義務](76-occupational-injury-protection.md)
+77. [全民健保與二代健保補充保費：實習生最容易踩的扣繳坑](77-health-insurance-and-supplementary-premium.md)
+78. [被欠薪、被開除、被騷擾：勞工爭議的免費救濟管道](78-labor-disputes-and-remedies.md)
+
+### 十五、簽署文件紅綠燈：哪些條款正常、哪些是地雷
+79. [NDA 保密協議綠燈紅燈：哪些條款正常、哪些不該簽](79-nda-confidentiality-redflags.md)
+80. [競業禁止條款：勞基法 §9-1 五要件全解析](80-non-compete-clause-validity.md)
+81. [你的程式碼、設計稿、文案歸誰？智慧財產權歸屬完全指南](81-ip-ownership-explained.md)
+82. [保密期 5 年、10 年、終身合理嗎？保密條款的合理區間](82-confidentiality-period-and-scope.md)
+83. [顯失公平條款 8 大紅燈：簽前必查的清單](83-unfair-clauses-checklist.md)
+84. [簽合約前的 15 分鐘 SOP：實習生必做的 7 件事](84-pre-signing-checklist.md)
+
+### 十六、特殊身分情境：這些族群有特別保護
+85. [學習型實習 vs 勞務型實習：勞基法保不保護你的關鍵判定](85-learning-vs-labor-internship.md)
+86. [性別平等工作法：實習生也適用，從面試到任職的紅線](86-gender-equality-at-work.md)
+87. [未滿 18 歲打工 / 實習：勞基法第六章特別規定全解析](87-minor-workers-special-rules.md)
+88. [外籍生工讀與實習：工作許可、20 小時上限、簽證地雷](88-international-student-work-permit.md)
+89. [你會被「派遣」進實習公司嗎？派遣勞工的特殊保護](89-dispatched-workers-vs-direct-hire.md)
+90. [畢業後第一份正職：合約最容易踩的 10 個陷阱](90-first-fulltime-job-contract-traps.md)
+
 ---
 
-**撰寫風格**：每篇約 1500–3500 中文字，採用引言、分段、要點清單、表格、實用建議與行動呼籲（CTA）的結構，適合學生族群閱讀，並引導讀者使用實習通平台的相關功能（如查看公司評價、心得分享等）。
+**撰寫風格**：1–60 篇每篇約 1500–3500 中文字、61–90 篇法律文章每篇 3000–7000 中文字。採用引言、分段、要點清單、表格、FAQ、實用建議與行動呼籲（CTA）的結構，適合學生族群閱讀。法律類文章皆於開頭與結尾附免責聲明並導引讀者至勞動部全國法規資料庫核對最新法規。

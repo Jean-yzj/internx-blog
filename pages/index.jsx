@@ -14,6 +14,11 @@ const SERIES_ORDER = [
   "數位工具",
   "產業深度",
   "台灣實戰",
+  "勞基法基礎",
+  "勞動契約",
+  "社保與救濟",
+  "簽署文件紅綠燈",
+  "特殊身分情境",
 ];
 
 export default function Home({ posts }) {
