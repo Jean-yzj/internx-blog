@@ -5,7 +5,7 @@
 ## 一、為什麼選 Looker Studio？
 
 ### 1. 完全免費
-Tableau、Power BI 都要付費（個人版每月 NT$ 300 起）。Looker Studio 是 Google 完全免費的工具，連結 Google Sheets、GA4、Google Ads、BigQuery 都是原生整合。
+Tableau、Power BI 多數版本都要付費（具體訂閱費用請查各家官網最新方案）。Looker Studio 是 Google 提供的免費工具，連結 Google Sheets、GA4、Google Ads、BigQuery 都是原生整合。
 
 ### 2. 無痛分享
 產出的 dashboard 是一個網址，公司同事點開就能看，不需要安裝軟體。對實習生來說，「能讓主管在手機上看的儀表板」就是好儀表板。

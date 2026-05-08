@@ -61,11 +61,13 @@
 
 ### 5. 薪資與成長
 
+> 以下為業界中段參考區間，實際依公司、職等、外商或本土而定。
+
 - **Junior Designer**：45K–65K。
 - **Designer**：65K–90K（2–4 年）。
 - **Senior Designer**：90K–130K（4–7 年）。
-- **Lead / Director**：130K–250K+。
-- **VP of Design**：250K+。
+- **Lead / Director**：130K 起，業界中上者更高。
+- **VP of Design**：視公司規模差異大，業界中上者可達 250K 以上。
 
 ## 二、內容運營 / Content Strategist
 
@@ -131,7 +133,7 @@
 - **Junior Content**：40K–55K。
 - **Content Strategist**：55K–80K（2–4 年）。
 - **Senior Content / Editor**：80K–110K（4–7 年）。
-- **Head of Content**：110K–250K+。
+- **Head of Content**：110K 起，業界中上者更高（依公司規模而定）。
 
 ## 三、UX Writer（產品文案）
 
@@ -172,9 +174,9 @@
 ### 4. 薪資與成長
 
 - **Junior UX Writer**：50K–70K。
-- **UX Writer**：70K–100K（2–4 年，外商可達 100K+）。
+- **UX Writer**：70K–100K（2–4 年，外商可達 100K 以上）。
 - **Senior UX Writer**：100K–150K。
-- **Lead UX Writer / Content Designer**：150K+。
+- **Lead UX Writer / Content Designer**：業界中上者可達 150K 以上（依公司而定）。
 
 ## 四、創意工作者進科技業的三大優勢
 

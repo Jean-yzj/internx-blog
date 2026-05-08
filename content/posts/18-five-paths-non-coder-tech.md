@@ -2,6 +2,8 @@
 
 「想進科技業，但完全不會寫程式」是許多文科生的卡關點。但其實在頂尖科技公司中，工程師通常只佔員工數 30–40%，剩下的全是非工程角色。本篇給你五條完整的進入路徑，每條都附帶必備能力、學習資源、起薪、進階方向，不需要寫一行 code。
 
+> **薪資說明**：以下各路徑列出的薪資為業界中段區間參考，實際依公司、職等、年資、所在地、外商或本土而定。資深主管職（Senior、Lead、Head）薪資差異尤其大；本土中小型公司會較低，外商頂尖科技公司含獎金與股票後可能更高。請以實習通最新公開職缺資訊為主。
+
 ## 路徑一：產品（Product）
 
 ### 起點職位
@@ -49,8 +51,8 @@
 - **APM / Junior PM**：50K–80K。
 - **PM**：80K–120K（3–5 年）。
 - **Senior PM**：120K–180K（5–8 年）。
-- **Lead / Principal PM**：180K–300K（8–12 年）。
-- **Head of Product / VP**：300K+（12 年+）。
+- **Lead / Principal PM**：180K–300K（8–12 年，依公司與職等差異大）。
+- **Head of Product / VP**：業界中上者可達 300K 以上（12 年+，視公司規模與股票獎酬而定）。
 
 ## 路徑二：營運與成長（Operations & Growth）
 
@@ -95,7 +97,7 @@
 - **Junior Analyst / Marketer**：45K–65K。
 - **Growth Marketer**：65K–90K（2–4 年）。
 - **Senior Growth**：90K–130K（4–7 年）。
-- **Head of Growth**：130K–250K+（7 年+）。
+- **Head of Growth**：130K 起，業界中上者可達 250K 以上（7 年+，視公司規模而定）。
 
 ## 路徑三：行銷與品牌（Marketing & Brand）
 
@@ -140,7 +142,7 @@
 - **Junior Marketer**：40K–55K。
 - **Marketing Specialist**：55K–80K（2–4 年）。
 - **Senior Marketer**：80K–120K（4–7 年）。
-- **Head of Marketing**：120K–250K+（7 年+）。
+- **Head of Marketing**：120K 起，業界中上者可達 250K 以上（7 年+，視公司與獎酬而定）。
 
 ## 路徑四：商業開發與客戶成功（BD & Customer Success）
 
@@ -181,10 +183,10 @@
 - Salesforce Trailhead（免費）。
 
 ### 起薪與成長路徑
-- **SDR**：50K–70K（含獎金 70K–100K）。
-- **Account Executive**：80K–120K（達標 120K–200K）。
-- **Senior AE / Enterprise**：150K–300K+。
-- **Head of Sales**：250K+。
+- **SDR**：50K–70K（含獎金 70K–100K，業績獎金占比高）。
+- **Account Executive**：80K–120K base（達標含獎金可達 120K–200K，依業績與公司制度而定）。
+- **Senior AE / Enterprise**：base 加業績獎金合計可達 150K 以上，業界頂尖者更高（依產品 ASP 與業績而定）。
+- **Head of Sales**：視公司規模差異大，業界中上者可達 250K 以上。
 
 ## 路徑五：設計與內容（Design & Content）
 
@@ -229,7 +231,7 @@
 - **Junior Designer**：45K–65K。
 - **Designer**：65K–90K（2–4 年）。
 - **Senior Designer**：90K–130K（4–7 年）。
-- **Lead / Director**：130K–250K+。
+- **Lead / Director**：130K 起，業界中上者可達 250K 以上（依公司與職等而定）。
 
 ## 五條路徑的共同準備
 
