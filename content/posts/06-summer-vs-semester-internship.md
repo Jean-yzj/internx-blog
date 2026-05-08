@@ -71,7 +71,7 @@
 
 ### 科技業 PM／工程
 - 暑期實習為主，但學期實習也越來越多開放。
-- FAANG 的 Internship Program 多為暑期 12 週。
+- 美國科技大廠（如 Apple、Google、Meta、Amazon、Microsoft 等）的 Internship Program 多為暑期 12 週。
 - 台灣科技公司（如 Dcard、iKala、KKLab）多開放學期實習。
 
 ### 行銷、廣告、創意產業
@@ -207,7 +207,7 @@
 ### 工程師學生
 - 大一起：Side Project + Hackathon。
 - 大二暑：小公司或新創實習。
-- 大三暑：大廠 Internship（FAANG、Dcard、台積等）。
+- 大三暑：大廠 Internship（美國科技大廠、Dcard、台積等）。
 - 大四：通常已有 Return Offer，可選擇是否再實習。
 
 ## 九、不適合學期實習的訊號

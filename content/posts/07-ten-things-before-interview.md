@@ -19,7 +19,7 @@
 ### 3. 創辦人或 CEO 的個人媒體
 - LinkedIn 貼文、Medium 文章。
 - 訪談 Podcast、TED Talk、Y Combinator Demo Day。
-- Twitter / Threads 上的觀點分享。
+- X（原 Twitter） / Threads 上的觀點分享。
 
 ### 4. 競品分析
 - 該公司的 3 個主要競爭對手是誰？

@@ -180,7 +180,7 @@ Notion 右上角「Export」→「Markdown & CSV」。永久保存到 GitHub 私
 在多個頁面同步顯示同一個 block。例如「公司 OKR」block，在你的 Daily Log、Projects、Meetings 三個頁面都顯示同一份內容。任一處更新，全部同步。
 
 ### 3. Notion AI（付費）
-寫會議紀錄時用 Notion AI 自動 summarize、自動列 action items、自動翻譯。月費約 NT$300，但對實習生來說，公司常會有 team 訂閱，順便用。
+寫會議紀錄時用 Notion AI 自動 summarize、自動列 action items、自動翻譯。需另外付費（價格依方案而異），但對實習生來說，公司常會有 team 訂閱，順便用。
 
 ## 十、FAQ：實習生問 Notion 常見問題
 

@@ -9,9 +9,9 @@
 **代表賽事**：
 - Hult Prize（社會企業）
 - L'Oréal Brandstorm（行銷）
-- HSBC / Citi Asia Pacific Business Case
-- KPMG Ideation Challenge
-- Bain Cup、BCG Junior Challenge
+- CFA Research Challenge（金融分析）
+- 四大會計師事務所與顧問公司（KPMG、Deloitte、EY、PwC、麥肯錫、BCG、Bain、Roland Berger）不定期舉辦的 Case Competition
+- 其他國內外不定期舉辦的商業個案賽（請至實習通查看當期實際舉辦的競賽資訊）
 
 **形式**：給一個真實商業議題，限時內提出解方並簡報。
 
@@ -27,11 +27,12 @@
 ### 2. 創新創業賽
 
 **代表賽事**：
-- 教育部 U-Start
-- KSF（科技部創業競賽）
-- TIC100（時代創新競賽）
-- TSEC 全國科技創業競賽
-- Startup Stadium（國際）
+- 教育部 U-Start 創新創業計畫
+- 時代基金會 YEF 青年創業領袖計畫
+- 龍騰微笑競賽（光寶科技主辦）
+- 旺宏金矽獎
+- 研華 TiC100 智慧城市創新應用競賽
+- 其他不定期舉辦的創新創業賽（請至實習通查看當期實際舉辦的競賽資訊）
 
 **形式**：團隊提出創業構想，發展商業模式並 pitch。
 
@@ -48,10 +49,9 @@
 
 **代表賽事**：
 - 時報金犢獎
-- 4A 金句獎
 - 學生廣告創意大賽
 - Cannes Future Lions（國際）
-- DBS HotSpot
+- 其他不定期舉辦的行銷創意賽（請至實習通查看當期實際舉辦的競賽資訊）
 
 **形式**：為品牌設計一波行銷活動。
 
@@ -67,10 +67,8 @@
 
 **代表賽事**：
 - 金融科技黑客松
-- AWS Cloud Day
-- Google Hash Code
-- Microsoft Imagine Cup
-- 各大科技公司的內部挑戰賽
+- KPMG ESG Lab
+- 各大科技公司不定期舉辦的 Hackathon 與產業挑戰賽（請至實習通查看當期實際舉辦的競賽資訊）
 
 **形式**：解決企業的真實技術 / 產品問題。
 
@@ -96,7 +94,7 @@
 
 具體加分：
 - 「Hult Prize 校內冠軍」= 商業分析能力證明。
-- 「BCG Junior Challenge 前 5」= 顧問業面試的入場券。
+- 「顧問公司 Case Competition 決賽」= 顧問業面試的入場券。
 - 「金犢獎銅獎」= 4A 廣告公司的綠色通道。
 
 ### 3. 培養「end-to-end」思維
@@ -304,12 +302,12 @@
 ### 台灣比賽
 - **優勢**：競爭較少（相對國際）、語言無障礙、機會多。
 - **劣勢**：規模較小、評審層級不一定最高。
-- **代表**：時報金犢、TIC100、U-Start。
+- **代表**：時報金犢、U-Start、龍騰微笑、旺宏金矽獎。
 
 ### 國際比賽
 - **優勢**：機會大、人脈廣、履歷亮眼。
 - **劣勢**：英文要求高、競爭極激烈、需要旅費。
-- **代表**：Hult Prize、L'Oréal Brandstorm、HSBC Asia Pacific Case。
+- **代表**：Hult Prize、L'Oréal Brandstorm、CFA Research Challenge。
 
 **建議**：先在台灣練手，再挑戰國際。
 

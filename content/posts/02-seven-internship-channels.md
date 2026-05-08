@@ -4,7 +4,7 @@
 
 ## 一、人力銀行的實習專區
 
-104、1111、CakeResume、Yourator 等人力銀行近年都開設「實習專區」，職缺集中、條件透明。
+104、1111、Cake、Yourator 等人力銀行近年都開設「實習專區」，職缺集中、條件透明。
 
 ### 優點
 - 職缺多、可批量投遞、可看到薪資範圍。
@@ -99,11 +99,12 @@ LinkedIn 是外商、跨國公司、科技業實習的首選平台。
 
 ## 六、社群媒體與 Discord 群組
 
-PTT Tech_Job 板、Facebook 社團（如「實習資訊分享」「行銷人」）、IG 創作者、以及各產業的 Discord 社群都會分享內推職缺。
+Dcard、Threads、Facebook 社團（如「實習資訊分享」「行銷人」）、IG 創作者、以及各產業的 Discord 社群都會分享內推職缺。PTT 仍有特定看板（如 Tech_Job、Salary、Soft_Job）但年輕學生使用率已大幅下降，可作為輔助參考。
 
 ### 推薦的社群
-- **PTT 板**：Tech_Job、Salary、Job、Soft_Job。
-- **Facebook 社團**：UI/UX Designer 設計交流、行銷人、軟體工程師求職社團。
+- **Dcard / Threads**：學生族群最活躍，常見內推與心得分享。
+- **PTT 板**：Tech_Job、Salary、Soft_Job 仍可參考，但更新頻率與互動度較低。
+- **Facebook 社團**：UI/UX Designer 設計交流、行銷人、軟體工程師求職社團（中壯年使用為主，特定領域仍活躍）。
 - **Discord 社群**：產品經理社群、Web3 社群、創業者圈。
 - **IG 創作者**：可從「職涯」、「實習」相關 hashtag 找到台灣 KOL。
 

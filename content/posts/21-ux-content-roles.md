@@ -55,7 +55,7 @@
 - Behance、Dribbble、Medium 觀察國際趨勢。
 
 **Step 4：考慮報名 UX 短期課程**
-- 5xRuby、AlphaCamp、Hahow 的 UX 課程。
+- 5xRuby、Hahow 的 UX 課程（請以平台當期開課資訊為準）。
 - Google UX Design Certificate（Coursera）。
 - Designlab UX Academy（國際課程）。
 
@@ -73,7 +73,7 @@
 
 - **規劃官網內容**：首頁文案、產品頁、案例研究。
 - **經營部落格**：每月產出 4–8 篇文章。
-- **社群媒體**：IG、LinkedIn、Twitter 經營。
+- **社群媒體**：IG、LinkedIn、X（原 Twitter） 經營。
 - **SEO 優化**：關鍵字研究、結構化數據。
 - **電子報行銷**：撰寫 newsletter、優化開信率。
 - **品牌語調**：定義 Tone of Voice，確保一致性。

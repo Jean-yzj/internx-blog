@@ -26,10 +26,10 @@
 
 ### 資訊來源
 - **實習通**：查看同公司、同職位的真實薪資範圍。
-- **104、CakeResume、Glassdoor**：找出產業中位數。
+- **104、Cake、Glassdoor**：找出產業中位數。
 - **學長姐**：透過系上社群或 LinkedIn 詢問近一年的實際薪資。
-- **PTT 板**：Tech_Job、Salary 板有歷史討論。
-- **薪資公開平台**：Levels.fyi（國際科技業）、Comparably。
+- **Dcard / Threads**：學生族群討論薪資的主流平台；PTT 的 Tech_Job、Salary 板仍有歷史討論可參考。
+- **薪資公開平台**：Levels.fyi（國際科技業）。
 
 ### 掌握三個數字
 - **市場下限**（你絕不接受的底線）。

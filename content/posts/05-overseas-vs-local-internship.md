@@ -152,7 +152,7 @@
 ### 2. 遠端跨國實習
 - 如新加坡、香港新創開放的 Remote 職缺。
 - 不需要出國，但能與國際團隊協作。
-- 平台：AngelList、Wellfound、Remote OK、Otta。
+- 平台：Wellfound、Remote OK、LinkedIn、Welcome to the Jungle 等國際遠端職缺平台。
 
 ### 3. Global Rotation Program
 - 先在台灣錄取，後續可能輪調海外。
