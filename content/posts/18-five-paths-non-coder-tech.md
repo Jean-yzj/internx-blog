@@ -81,7 +81,7 @@
 **Step 1：學會數據工具**
 - Google Analytics 4 認證（免費）。
 - Mixpanel / Amplitude 教學課程。
-- SQL 入門（Mode Analytics 免費課程）。
+- SQL 入門（網路上多有免費教學資源，可至 Coursera、freeCodeCamp 等平台尋找）。
 
 **Step 2：讀完成長相關書籍**
 - 《增長黑客》（Sean Ellis、Morgan Brown）。
@@ -214,8 +214,8 @@
 
 **Step 1：自學 Figma**
 - Figma 官方教學（免費）。
-- Designlab、Daily UI 等挑戰。
-- 完成 30 天 UI 設計挑戰。
+- 網路上的 30 天 UI 設計挑戰、每日 UI 練習等學習資源。
+- 完成自訂的 30 天 UI 設計練習。
 
 **Step 2：做 3 個假產品案例**
 - 重新設計一款常用 App。
@@ -223,8 +223,8 @@
 - 個人作品集網站。
 
 **Step 3：加入設計社群**
-- Behance、Dribbble、Designspell。
-- UI/UX Designer 社團。
+- Behance、Dribbble 等國際設計作品平台。
+- 各專業 UI/UX 設計交流社團。
 - 參加 design challenge。
 
 ### 起薪與成長路徑
@@ -249,7 +249,8 @@ MAU、DAU、Churn、ARPU、Funnel、Retention、PMF、CAC、LTV、ARR、MRR…
 - 產業活動（各類 PM、前端、成長行銷的 meetup、社群活動，可透過 Meetup、Facebook、Discord 搜尋）。
 
 ### 4. 持續關注產業動態
-- a16z、Lenny's Newsletter、Manny Li、INSIDE。
+- 國際創投與產品領域的英文 Newsletter / 部落格。
+- 中文科技媒體（如 INSIDE）與業界知名電子報。
 - The Verge、TechCrunch、Stratechery。
 
 ### 5. 實習試錯

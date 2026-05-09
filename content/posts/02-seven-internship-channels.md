@@ -99,13 +99,13 @@ LinkedIn 是外商、跨國公司、科技業實習的首選平台。
 
 ## 六、社群媒體與 Discord 群組
 
-Dcard、Threads、Facebook 社團（如「實習資訊分享」「行銷人」）、IG 創作者、以及各產業的 Discord 社群都會分享內推職缺。PTT 仍有特定看板（如 Tech_Job、Salary、Soft_Job）但年輕學生使用率已大幅下降，可作為輔助參考。
+Dcard、Threads、Facebook 求職與產業社團、IG 創作者、以及各產業的 Discord 社群都會分享內推職缺。PTT 仍有特定看板（如 Tech_Job、Salary、Soft_Job）但年輕學生使用率已大幅下降，可作為輔助參考。
 
 ### 推薦的社群
 - **Dcard / Threads**：學生族群最活躍，常見內推與心得分享。
 - **PTT 板**：Tech_Job、Salary、Soft_Job 仍可參考，但更新頻率與互動度較低。
-- **Facebook 社團**：UI/UX Designer 設計交流、行銷人、軟體工程師求職社團（中壯年使用為主，特定領域仍活躍）。
-- **Discord 社群**：產品經理社群、Web3 社群、創業者圈。
+- **Facebook 社團**：行銷、設計、軟體工程相關求職與交流社團（中壯年使用為主，特定領域仍活躍）。
+- **Discord 社群**：各專業領域社群（如 PM、設計、Web3、創業者圈）。
 - **IG 創作者**：可從「職涯」、「實習」相關 hashtag 找到台灣 KOL。
 
 ### 實戰使用技巧

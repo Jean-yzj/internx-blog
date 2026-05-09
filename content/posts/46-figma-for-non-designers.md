@@ -101,8 +101,8 @@ Component 是「可重複使用的設計元素」。把一個按鈕做成 Compon
 
 ## 六、Figma 不只是設計工具：3 個非典型用法
 
-### 1. 用 Figma 做簡報（FigJam / FigSlides）
-2024 年起 Figma 推出 Slides 功能，能直接做投影片。比 PowerPoint 漂亮、比 Google Slides 協作好。實習生用來做 review meeting、demo day、實習成果報告超適合。
+### 1. 用 Figma 做簡報（Figma Slides）
+近年 Figma 推出 Slides 功能，能直接在 Figma 內做投影片。比 PowerPoint 漂亮、比 Google Slides 協作好。實習生用來做 review meeting、demo day、實習成果報告超適合（功能可能持續演進，請以官方文件為準）。
 
 ### 2. 用 Figma 畫 Wireframe
 PM 實習生最大武器。畫一個低保真 wireframe（黑白、無 UI 細節），快速跟工程師、PM、Stakeholder 對齊「我們要做什麼」。比起寫 spec 文件，wireframe 一張勝過千字。

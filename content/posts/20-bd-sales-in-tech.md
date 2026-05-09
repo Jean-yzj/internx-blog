@@ -170,10 +170,10 @@ Stripe、Notion、Salesforce 等公司年營收靠 BD/Sales 推動。
 ### 2. 學習產業知識
 看 SaaS Metrics、Cloud Computing、AI Tools 的入門資料。
 
-**推薦閱讀**：
-- Bessemer 的《Cloud 100》報告。
-- a16z 的 SaaS 觀察文章。
-- Stripe Atlas 的 startup guides。
+**推薦閱讀方向**：
+- 國際創投發布的雲端 / SaaS 年度產業報告。
+- 國際創投與產業媒體的 SaaS、雲端觀察文章。
+- 各大 SaaS 與雲端公司官方部落格的銷售與成長案例。
 
 ### 3. 自學銷售方法
 - 《SPIN Selling》（Neil Rackham）：顧問式銷售經典。
@@ -191,10 +191,10 @@ Stripe、Notion、Salesforce 等公司年營收靠 BD/Sales 推動。
 ### 5. 投遞 SDR 實習
 新創 SaaS 是最容易切入的 SDR 入門點。
 
-**台灣推薦的科技業 BD 公司**：
-- Dcard、KKLab、iKala（本土科技）。
-- Salesforce、HubSpot、Microsoft（外商）。
-- 91APP、CoolBitX（台灣 SaaS）。
+**台灣可參考的科技業 BD 招募方向**：
+- 本土網路、SaaS、雲端、電商科技公司（請至各公司官網查證當期招募）。
+- 在台外商科技公司的 SDR / BD / CSM 職缺（如國際 SaaS、雲端、CRM 大廠）。
+- 實際職缺請以各公司 careers 頁面與人力銀行公開資訊為準。
 
 ## 八、給害怕被拒絕的學生
 
@@ -219,28 +219,30 @@ Stripe、Notion、Salesforce 等公司年營收靠 BD/Sales 推動。
 
 ## 九、不同產業的 BD 機會
 
+> **重要提醒**：以下列出的國際公司多為**全球產業代表**，**不代表它們在台灣設有 BD 團隊或徵才**。台灣的外商 BD 機會通常集中在 AWS、Google、Microsoft、Salesforce、Adobe 等已在台設立分公司的大型企業；其他國際品牌可能透過台灣經銷商或亞太區辦公室（多在新加坡 / 香港 / 東京）運作。**請以各公司台灣官方招募頁為準**。
+
 ### 1. SaaS（軟體即服務）
-最熱門、最大宗。例：Salesforce、HubSpot、Notion。
+最熱門、最大宗。國際代表如 Salesforce、HubSpot、Notion 等；台灣本土則有多家中型 SaaS 與企業軟體公司。
 
 ### 2. Cloud Computing
-AWS、Azure、GCP 都有大量 BD 職缺。
+雲端三大（AWS、Microsoft Azure、Google Cloud）皆在台灣設有分公司並有 BD 職缺，是台灣外商 BD 最主要的入口之一。
 
 ### 3. AI / Data
-近年最火熱：OpenAI、Anthropic、各類 AI 工具。
+近年最熱的領域，國際代表如 OpenAI、Anthropic、Google Gemini、Cohere 等，**多數尚未在台灣設立完整 BD 團隊**，台灣的 AI 工具 BD 機會多落在本土 AI 新創或亞太代理商。
 
 ### 4. FinTech
-金融科技：Stripe、Adyen、台灣的 Pi 拍錢包。
+金融科技：國際代表如 Stripe、Adyen 等（**多透過亞太區辦公室運作，台灣 BD 職缺較少**）；台灣本土則有第三方支付、純網銀、行動支付業者，相對好入行。
 
 ### 5. EdTech
-教育科技：Coursera、Duolingo、台灣的 Hahow。
+教育科技：國際代表如 Coursera、Duolingo 等；台灣本土有 Hahow 等線上學習平台與企業內訓教育科技公司。
 
 ### 6. HealthTech
-醫療科技：Epic、Doximity、台灣的高雄醫學等。
+醫療科技：國際 EHR / 醫療資訊 / 遠距醫療公司，及台灣的醫療科技新創與生醫資訊業者。
 
 ### 7. Cybersecurity
-資安公司：Palo Alto、CrowdStrike、台灣的趨勢科技。
+資安公司：國際大廠（如 Palo Alto Networks、CrowdStrike）**台灣多透過代理商運作直接 BD 機會少**；台灣本土如趨勢科技為主流選項。
 
-每個垂直領域都需要既懂業務又懂產業的 BD。
+每個垂直領域都需要既懂業務又懂產業的 BD。**選擇路徑時務必先確認該公司在台灣是否有招募，不要看到國際大公司就以為等於台灣機會**。
 
 ## 十、進階：BD 的 5 個核心心法
 

@@ -236,9 +236,9 @@ PM、行銷、營運、設計、研究——這些職位的工程師佔比都很
 ## 七、給文科生的三個準備建議
 
 ### 1. 每天看 30 分鐘的科技媒體
-- INSIDE、Manny Li 電子報。
-- a16z Podcast、Lex Fridman Podcast。
-- Lenny's Newsletter（PM 必讀）。
+- 中文科技媒體（如 INSIDE）與業界知名電子報。
+- 國際科技 / 創投 Podcast（依興趣選擇）。
+- PM、產品、成長領域的英文 Newsletter。
 - The Verge、TechCrunch、Wired。
 
 ### 2. 建立自己的「科技字典」

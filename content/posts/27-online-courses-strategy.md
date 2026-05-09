@@ -47,10 +47,9 @@
 **建立某領域的系統知識**。
 
 例：
-- Coursera 的 Data Science Specialization。
-- edX MicroMasters。
-- Wharton Online 的 Marketing Analytics。
-- Stanford Online 的 Machine Learning。
+- Coursera 上由名校與大型科技公司開設的 Specialization 系列。
+- edX 上的 MicroMasters 系列。
+- 名校 Online 平台（如 Wharton Online、Stanford Online）的商業分析、機器學習等專題課程。
 
 **特性**：
 - 通常 3–6 個月完成。
@@ -63,9 +62,8 @@
 **建立思考方式**。
 
 例：
-- Lenny's Newsletter Course（PM 思維）。
-- 《Reforge》Growth 課程。
-- 《Maven》上的客製課程。
+- 國際 PM / 產品領域的高階線上課程與 cohort-based course 平台。
+- 成長行銷與 SaaS 領域的進階訓練課程。
 - Y Combinator Startup School（免費）。
 
 **特性**：
@@ -100,31 +98,30 @@
 
 ### 數據分析類
 
-**Google Data Analytics Professional Certificate**（Coursera, $39 USD/月）
-- 6 個月完成。
+**Google Data Analytics Professional Certificate**（Coursera 訂閱制，價格請以官方為準）
+- 約 6 個月完成。
 - 包含 SQL、R、Tableau。
-- Coursera 上最受歡迎課程之一。
+- Coursera 上熱門的入門資料分析課程之一。
 
-**Microsoft Power BI Data Analyst**（免費教材 + 認證費）
+**Microsoft Power BI Data Analyst**（免費教材 + 認證費，費用請以官方為準）
 - 商業分析必備。
-- 認證費約 165 美元。
 
 **Kaggle Learn 課程**（完全免費）
 - Python、SQL、Pandas、機器學習。
 - 適合自學者。
 
-**SQL for Data Science**（Coursera, UC Davis）
-- SQL 入門經典。
+**Coursera 上的 SQL 入門課程**（多家名校與大型科技公司提供）
+- SQL 入門必修。
 
 ### 設計類
 
-**Google UX Design Professional Certificate**（Coursera, $39 USD/月）
-- 6 個月完成。
+**Google UX Design Professional Certificate**（Coursera 訂閱制，價格請以官方為準）
+- 約 6 個月完成。
 - 從零開始學 UX。
 
-**Designlab UX Academy**（付費，較貴）
-- 4 個月密集訓練。
-- 有 mentor 1on1。
+**國際 UX Bootcamp / 訓練營（付費，較貴）**
+- 數個月的密集訓練，多有 mentor 1on1。
+- 課程與費用請至各平台官網查證。
 
 **Interaction Design Foundation 課程**
 - 訂閱制，相對便宜。
@@ -150,19 +147,15 @@
 
 ### PM 類
 
-**Reforge Product Strategy**（付費，較高階）
-- 矽谷頂尖 PM 課程。
-- 600–2,000 美元。
-
-**Lenny's Newsletter Course**
-- 每年開設多次。
-- 500–1,500 美元。
+**國際進階 PM / 成長課程平台（付費，較高階）**
+- 矽谷生態圈內常見的 cohort-based course 與會員制學習平台。
+- 費用通常數百至數千美元，請至官網查證當期課程與價格。
 
 **Cracking the PM Interview**（書 + 自學）
 - 讀 1 本書足以理解 PM 面試框架。
 
-**Coursera 的 Product Management Specialization**
-- 入門級別。
+**Coursera 上的 Product Management 入門系列課程**
+- 入門級別，適合 PM 初學者建立基礎概念。
 
 ## 四、課程選擇的五個原則
 
@@ -291,7 +284,7 @@
 - **劣勢**：較貴。
 - **適合**：工程師進階。
 
-### Hahow、PressPlay、Yotta（台灣）
+### 台灣本土線上學習平台（如 Hahow 等）
 - **優勢**：中文授課、台灣案例。
 - **劣勢**：國際辨識度較低。
 - **適合**：本土工作。
