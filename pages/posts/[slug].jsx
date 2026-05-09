@@ -1,32 +1,77 @@
 import Link from "next/link";
 import Head from "next/head";
 import { getAllSlugs, getAllPosts, getPostBySlug } from "@/lib/posts";
+import {
+  SITE,
+  postUrl,
+  seriesUrl,
+  articleJsonLd,
+  breadcrumbJsonLd,
+} from "@/lib/seo";
 
 export default function Post({ post, prevPost, nextPost }) {
+  const url = postUrl(post.slug);
+  const description = post.intro || `${post.title} — 來自實習通部落格`;
+  const articleLd = articleJsonLd(post);
+  const breadcrumbLd = breadcrumbJsonLd([
+    { name: "首頁", url: SITE.url },
+    { name: post.series.name, url: seriesUrl(post.series.slug) },
+    { name: post.title, url },
+  ]);
+
   return (
     <>
       <Head>
-        <title>{post.title} — 實習通部落格</title>
-        <meta name="description" content={post.title} />
+        <title>{post.title} — {SITE.name}</title>
+        <meta name="description" content={description} />
+        <link rel="canonical" href={url} />
+
+        {/* Open Graph */}
+        <meta property="og:type" content="article" />
+        <meta property="og:site_name" content={SITE.name} />
+        <meta property="og:locale" content={SITE.locale} />
+        <meta property="og:title" content={post.title} />
+        <meta property="og:description" content={description} />
+        <meta property="og:url" content={url} />
+        <meta property="article:section" content={post.series.name} />
+
+        {/* Twitter / X */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={post.title} />
+        <meta name="twitter:description" content={description} />
+
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+        />
       </Head>
 
       <div className="max-w-3xl mx-auto px-6 py-8">
-        <nav className="mb-8 text-sm">
+        <nav className="mb-8 text-sm flex items-center gap-2 text-gray-500">
+          <Link href="/" className="hover:text-theme-dark">
+            首頁
+          </Link>
+          <span>/</span>
           <Link
-            href="/"
-            className="text-gray-500 hover:text-theme-dark inline-flex items-center gap-1"
+            href={`/series/${post.series.slug}`}
+            className="hover:text-theme-dark"
           >
-            ← 回到所有文章
+            {post.series.name}
           </Link>
         </nav>
 
         <header className="mb-10">
           <div className="flex items-center gap-3 mb-4">
-            <span
-              className={`text-xs font-medium px-2.5 py-1 rounded-full ${post.series.color}`}
+            <Link
+              href={`/series/${post.series.slug}`}
+              className={`text-xs font-medium px-2.5 py-1 rounded-full ${post.series.color} hover:opacity-80 transition-opacity`}
             >
               {post.series.name}
-            </span>
+            </Link>
             <span className="text-sm text-gray-400 font-mono">
               #{String(post.num).padStart(2, "0")}
             </span>
@@ -79,8 +124,13 @@ export default function Post({ post, prevPost, nextPost }) {
       </div>
 
       <footer className="border-t border-gray-200 bg-white mt-16">
-        <div className="max-w-3xl mx-auto px-6 py-8 text-center text-sm text-gray-500">
+        <div className="max-w-3xl mx-auto px-6 py-8 text-center text-sm text-gray-500 space-y-1">
           <p>實習通 InternX · 為大學生而做的職涯平台</p>
+          <p className="text-xs text-gray-400">
+            <Link href="/feed.xml" className="hover:underline">RSS</Link>
+            <span className="mx-2">·</span>
+            <Link href="/sitemap.xml" className="hover:underline">Sitemap</Link>
+          </p>
         </div>
       </footer>
     </>
