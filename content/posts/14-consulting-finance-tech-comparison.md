@@ -142,17 +142,17 @@
 
 ### 顧問業
 - 暑期實習通常 8–10 週，參與一個完整專案，Return Offer 比例通常較高。
-- 常見實習計畫：BCG Summer Associate、Bain ACI、McKinsey Summer Associate。
+- 主要外商顧問公司（BCG、Bain、McKinsey 等）皆有暑期實習計畫，名稱與梯次依年度而定。
 - 競爭極激烈，錄取率偏低。
 
 ### 金融業（IB）
 - 超強篩選，10 週實習、加班強度高，Return Offer 是入行門票。
-- 常見計畫：Goldman Summer Analyst、Morgan Stanley、JP Morgan。
+- 主要外資投行（如 Goldman Sachs、Morgan Stanley、JP Morgan 等）均有 Summer Analyst 計畫，名稱與時程依公司而定。
 - 競爭極激烈，特別是北美前段，錄取率非常低。
 
 ### 科技業
 - 實習形式多元，從暑期到學期，PM、工程、營運皆有，文化通常較開放。
-- 常見計畫：Google STEP、Meta MPK、Microsoft Explore。
+- 大型科技公司多半有暑期實習計畫（建議直接到各公司 careers 頁面確認當年度名稱與條件）。
 - 也有許多本土科技公司（Dcard、KKBOX、iKala）。
 
 ## 八、不同產業的「真實隱性挑戰」

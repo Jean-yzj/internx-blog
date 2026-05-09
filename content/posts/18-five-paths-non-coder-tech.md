@@ -9,7 +9,7 @@
 ### 起點職位
 - 產品助理（Product Associate）
 - 產品專案經理（Product PM）
-- APM Program（如 Google APM、Meta RPM、Uber APM）
+- APM / RPM / Rotational Program（部分大型科技公司會開設新人輪調計畫，名稱與條件依公司與年度而定，請以官方 careers 頁面為準）
 
 ### 必備能力
 
@@ -246,7 +246,7 @@ MAU、DAU、Churn、ARPU、Funnel、Retention、PMF、CAC、LTV、ARR、MRR…
 ### 3. 建立人脈
 - LinkedIn（必備）。
 - 學長姐網絡。
-- 產業活動（PMHQ、Front-End TW、Growth Hack）。
+- 產業活動（各類 PM、前端、成長行銷的 meetup、社群活動，可透過 Meetup、Facebook、Discord 搜尋）。
 
 ### 4. 持續關注產業動態
 - a16z、Lenny's Newsletter、Manny Li、INSIDE。
